@@ -1,3 +1,10 @@
 ion-content ion-toolbar {
   --background: translucent;
 }
+
+ion-content ion-grid {
+  --ion-grid-padding: 0px;
+  --ion-grid-column-padding: 0px;
+}
+
+

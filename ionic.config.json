@@ -1,5 +1,7 @@
 {
   "name": "byra4u",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
